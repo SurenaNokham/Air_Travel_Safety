@@ -46,6 +46,11 @@ Explore the visualizations and insights provided in the PDFs and presentations.
 4. Push to the branch: git push origin feature-branch
 5. Submit a pull request.
 
+**License**
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
 **Contact**
 
 For any inquiries, please contact Surena Nokham at fnokham@gmail.com
