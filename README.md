@@ -25,6 +25,7 @@ Install necessary dependencies: pip install -r requirements.txt
 **Usage**
 
 Run the Jupyter notebooks for data analysis and visualization: jupyter notebook
+
 Explore the visualizations and insights provided in the PDFs and presentations.
 
 **Data Sources**
