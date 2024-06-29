@@ -30,8 +30,13 @@ Explore the visualizations and insights provided in the PDFs and presentations.
 
 **Data Sources**
 
-Aviation Safety Network: Data on aviation accidents and safety measures.
-Bureau of Transportation Statistics: Statistics on airline operations and safety.
+**Transportation Accidents by Mode:** Data on transportation accidents from various modes of transportation. (transportation_accidents_by_mode.xlsx)
+
+**Airplane Crashes and Fatalities Since 1908:** Detailed data on airplane crashes and fatalities. (Airplane_Crashes_and_Fatalities_Since_1908.csv)
+
+**Airline Safety Data:** Statistics on airline operations and safety records. (airline-safety.csv)
+
+**Accidents and Fatalities Per Year:** Yearly data on accidents and fatalities in aviation. (Accidents&Fatalities_Per_Year.xlsx)
 
 **Contributing**
 
